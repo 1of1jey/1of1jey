@@ -6,7 +6,7 @@ Full Stack Developer from Ghana 🇬🇭 passionate about building web applicati
 🔭 Currently working on Full Stack Web Apps
 🌱 Learning Advanced React & Django REST Framework
 💬 Ask me about Python, JavaScript, React, Django
-📫 Reach me: jeffrey.eshun@gmail.com
+📫 Reach me: eshunjeffrey12@gmail.com
 
 🛠️ Tech Stack
 <div align="center">
